@@ -1,0 +1,4 @@
+Tracer 1/Vmes-1/v=R/v*Gx
+application 1/vmes-0.20=2000 * Gx 
+Tracer Force en fonction de Rx
+modele exp(-ax)?1/n**a?
