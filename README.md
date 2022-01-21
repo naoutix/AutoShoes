@@ -10,3 +10,5 @@ Take the last release and charge the .ino file into you Arduino Uno and make all
 
 # What i have doing ?
 Go to > PRESENTATION>presentation_Autoshoes.pdf to learn more about my work
+
+<img src="PRESENTATION/Photo/IMG_20190604_213209.jpg" width ="250"/>
