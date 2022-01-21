@@ -7,3 +7,6 @@ The recent development of automatic shoes could allow to benefit athletic player
 
 # How to use ?
 Take the last release and charge the .ino file into you Arduino Uno and make all wire describe here
+
+# What i have doing ?
+Go to > PRESENTATION>presentation_Autoshoes.pdf to learn more about my work
